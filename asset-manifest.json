@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/swift-task/static/css/main.a751c833.css",
+    "main.js": "/swift-task/static/js/main.ec84e15a.js",
+    "static/js/453.18175a68.chunk.js": "/swift-task/static/js/453.18175a68.chunk.js",
+    "static/media/doodles.png": "/swift-task/static/media/doodles.26a7dfa3ea554d60cb43.png",
+    "static/media/doodles_avatar.png": "/swift-task/static/media/doodles_avatar.26a7dfa3ea554d60cb43.png",
+    "static/media/mekaverse.png": "/swift-task/static/media/mekaverse.29b0d8678a6b89bbe799.png",
+    "static/media/mekaverse_avatar.png": "/swift-task/static/media/mekaverse_avatar.29b0d8678a6b89bbe799.png",
+    "index.html": "/swift-task/index.html",
+    "main.a751c833.css.map": "/swift-task/static/css/main.a751c833.css.map",
+    "main.ec84e15a.js.map": "/swift-task/static/js/main.ec84e15a.js.map",
+    "453.18175a68.chunk.js.map": "/swift-task/static/js/453.18175a68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a751c833.css",
+    "static/js/main.ec84e15a.js"
+  ]
+}
